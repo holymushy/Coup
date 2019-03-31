@@ -1,1 +1,1 @@
-from .core import hmm
+from .game_state import game_state
